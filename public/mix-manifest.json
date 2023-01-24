@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/all.js": "/js/all.js",
+    "/js/pages/customer.js": "/js/pages/customer.js",
+    "/js/pages/passport.js": "/js/pages/passport.js",
+    "/js/pages/haji.js": "/js/pages/haji.js",
+    "/js/pages/hajj-payment.js": "/js/pages/hajj-payment.js",
+    "/js/pages/package.js": "/js/pages/package.js",
+    "/js/pages/accounts/bootstrap-pickers.js": "/js/pages/accounts/bootstrap-pickers.js",
+    "/js/pages/accounts/deposit.js": "/js/pages/accounts/deposit.js",
+    "/js/pages/accounts/expense.js": "/js/pages/accounts/expense.js",
+    "/js/pages/passportHistory.js": "/js/pages/passportHistory.js",
+    "/js/pages/report-bootstrap-pickers.js": "/js/pages/report-bootstrap-pickers.js"
+}

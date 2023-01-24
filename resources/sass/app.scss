@@ -1,0 +1,34 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+@import "../../public/vendor/dashboard/assets/css/pages/login/login-6.css";
+//@import "../../public/vendor/dashboard/assets/plugins/custom/fullcalendar/fullcalendar.bundle.css";
+
+// METRONIC theme CSS files
+@import "../../public/vendor/dashboard/assets/plugins/global/plugins.bundle.css";
+@import "../../public/vendor/dashboard/assets/css/style.bundle.css";
+// END METRONIC theme CSS files
+
+@import "~toastr";
+@import "./mystyle.css";
+
+// We are using CDN as fontawesome have problem with sub directory routes.
+/*
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css');
+@import url('https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css');
+@import '~@fortawesome/fontawesome-free/css/all.css';
+*/
+
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+@import '~vue-loading-overlay/dist/vue-loading.css';
